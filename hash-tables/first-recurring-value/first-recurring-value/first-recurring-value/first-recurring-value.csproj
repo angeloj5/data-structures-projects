@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>first_recurring_value</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="custom-hash-table">
+      <HintPath>..\..\..\custom-hash-table\custom-hash-table\bin\Debug\net6.0\custom-hash-table.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

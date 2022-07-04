@@ -1,0 +1,15 @@
+C:\Projects\data-structures-projects\arrays\MergeSortedArrays\MergeSortedArrays\bin\Debug\net6.0\MergeSortedArrays.exe
+C:\Projects\data-structures-projects\arrays\MergeSortedArrays\MergeSortedArrays\bin\Debug\net6.0\MergeSortedArrays.deps.json
+C:\Projects\data-structures-projects\arrays\MergeSortedArrays\MergeSortedArrays\bin\Debug\net6.0\MergeSortedArrays.runtimeconfig.json
+C:\Projects\data-structures-projects\arrays\MergeSortedArrays\MergeSortedArrays\bin\Debug\net6.0\MergeSortedArrays.dll
+C:\Projects\data-structures-projects\arrays\MergeSortedArrays\MergeSortedArrays\bin\Debug\net6.0\MergeSortedArrays.pdb
+C:\Projects\data-structures-projects\arrays\MergeSortedArrays\MergeSortedArrays\obj\Debug\net6.0\MergeSortedArrays.csproj.AssemblyReference.cache
+C:\Projects\data-structures-projects\arrays\MergeSortedArrays\MergeSortedArrays\obj\Debug\net6.0\MergeSortedArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\data-structures-projects\arrays\MergeSortedArrays\MergeSortedArrays\obj\Debug\net6.0\MergeSortedArrays.AssemblyInfoInputs.cache
+C:\Projects\data-structures-projects\arrays\MergeSortedArrays\MergeSortedArrays\obj\Debug\net6.0\MergeSortedArrays.AssemblyInfo.cs
+C:\Projects\data-structures-projects\arrays\MergeSortedArrays\MergeSortedArrays\obj\Debug\net6.0\MergeSortedArrays.csproj.CoreCompileInputs.cache
+C:\Projects\data-structures-projects\arrays\MergeSortedArrays\MergeSortedArrays\obj\Debug\net6.0\MergeSortedArrays.dll
+C:\Projects\data-structures-projects\arrays\MergeSortedArrays\MergeSortedArrays\obj\Debug\net6.0\refint\MergeSortedArrays.dll
+C:\Projects\data-structures-projects\arrays\MergeSortedArrays\MergeSortedArrays\obj\Debug\net6.0\MergeSortedArrays.pdb
+C:\Projects\data-structures-projects\arrays\MergeSortedArrays\MergeSortedArrays\obj\Debug\net6.0\MergeSortedArrays.genruntimeconfig.cache
+C:\Projects\data-structures-projects\arrays\MergeSortedArrays\MergeSortedArrays\obj\Debug\net6.0\ref\MergeSortedArrays.dll

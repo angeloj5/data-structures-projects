@@ -1,0 +1,15 @@
+C:\Projects\data-structures-projects\arrays\ReverseAString\ReverseAString\bin\Debug\net6.0\ReverseAString.exe
+C:\Projects\data-structures-projects\arrays\ReverseAString\ReverseAString\bin\Debug\net6.0\ReverseAString.deps.json
+C:\Projects\data-structures-projects\arrays\ReverseAString\ReverseAString\bin\Debug\net6.0\ReverseAString.runtimeconfig.json
+C:\Projects\data-structures-projects\arrays\ReverseAString\ReverseAString\bin\Debug\net6.0\ReverseAString.dll
+C:\Projects\data-structures-projects\arrays\ReverseAString\ReverseAString\bin\Debug\net6.0\ReverseAString.pdb
+C:\Projects\data-structures-projects\arrays\ReverseAString\ReverseAString\obj\Debug\net6.0\ReverseAString.csproj.AssemblyReference.cache
+C:\Projects\data-structures-projects\arrays\ReverseAString\ReverseAString\obj\Debug\net6.0\ReverseAString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\data-structures-projects\arrays\ReverseAString\ReverseAString\obj\Debug\net6.0\ReverseAString.AssemblyInfoInputs.cache
+C:\Projects\data-structures-projects\arrays\ReverseAString\ReverseAString\obj\Debug\net6.0\ReverseAString.AssemblyInfo.cs
+C:\Projects\data-structures-projects\arrays\ReverseAString\ReverseAString\obj\Debug\net6.0\ReverseAString.csproj.CoreCompileInputs.cache
+C:\Projects\data-structures-projects\arrays\ReverseAString\ReverseAString\obj\Debug\net6.0\ReverseAString.dll
+C:\Projects\data-structures-projects\arrays\ReverseAString\ReverseAString\obj\Debug\net6.0\refint\ReverseAString.dll
+C:\Projects\data-structures-projects\arrays\ReverseAString\ReverseAString\obj\Debug\net6.0\ReverseAString.pdb
+C:\Projects\data-structures-projects\arrays\ReverseAString\ReverseAString\obj\Debug\net6.0\ReverseAString.genruntimeconfig.cache
+C:\Projects\data-structures-projects\arrays\ReverseAString\ReverseAString\obj\Debug\net6.0\ref\ReverseAString.dll
