@@ -1,0 +1,15 @@
+C:\Projects\data-structures-projects\linked-lists\customLinkedList\customLinkedList\obj\Debug\net6.0\customLinkedList.csproj.AssemblyReference.cache
+C:\Projects\data-structures-projects\linked-lists\customLinkedList\customLinkedList\obj\Debug\net6.0\customLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\data-structures-projects\linked-lists\customLinkedList\customLinkedList\obj\Debug\net6.0\customLinkedList.AssemblyInfoInputs.cache
+C:\Projects\data-structures-projects\linked-lists\customLinkedList\customLinkedList\obj\Debug\net6.0\customLinkedList.AssemblyInfo.cs
+C:\Projects\data-structures-projects\linked-lists\customLinkedList\customLinkedList\obj\Debug\net6.0\customLinkedList.csproj.CoreCompileInputs.cache
+C:\Projects\data-structures-projects\linked-lists\customLinkedList\customLinkedList\bin\Debug\net6.0\customLinkedList.exe
+C:\Projects\data-structures-projects\linked-lists\customLinkedList\customLinkedList\bin\Debug\net6.0\customLinkedList.deps.json
+C:\Projects\data-structures-projects\linked-lists\customLinkedList\customLinkedList\bin\Debug\net6.0\customLinkedList.runtimeconfig.json
+C:\Projects\data-structures-projects\linked-lists\customLinkedList\customLinkedList\bin\Debug\net6.0\customLinkedList.dll
+C:\Projects\data-structures-projects\linked-lists\customLinkedList\customLinkedList\bin\Debug\net6.0\customLinkedList.pdb
+C:\Projects\data-structures-projects\linked-lists\customLinkedList\customLinkedList\obj\Debug\net6.0\customLinkedList.dll
+C:\Projects\data-structures-projects\linked-lists\customLinkedList\customLinkedList\obj\Debug\net6.0\refint\customLinkedList.dll
+C:\Projects\data-structures-projects\linked-lists\customLinkedList\customLinkedList\obj\Debug\net6.0\customLinkedList.pdb
+C:\Projects\data-structures-projects\linked-lists\customLinkedList\customLinkedList\obj\Debug\net6.0\customLinkedList.genruntimeconfig.cache
+C:\Projects\data-structures-projects\linked-lists\customLinkedList\customLinkedList\obj\Debug\net6.0\ref\customLinkedList.dll
