@@ -1,0 +1,15 @@
+C:\Projects\data-structures-projects\arrays\ArrayRotation\ArrayRotation\bin\Debug\net6.0\ArrayRotation.exe
+C:\Projects\data-structures-projects\arrays\ArrayRotation\ArrayRotation\bin\Debug\net6.0\ArrayRotation.deps.json
+C:\Projects\data-structures-projects\arrays\ArrayRotation\ArrayRotation\bin\Debug\net6.0\ArrayRotation.runtimeconfig.json
+C:\Projects\data-structures-projects\arrays\ArrayRotation\ArrayRotation\bin\Debug\net6.0\ArrayRotation.dll
+C:\Projects\data-structures-projects\arrays\ArrayRotation\ArrayRotation\bin\Debug\net6.0\ArrayRotation.pdb
+C:\Projects\data-structures-projects\arrays\ArrayRotation\ArrayRotation\obj\Debug\net6.0\ArrayRotation.csproj.AssemblyReference.cache
+C:\Projects\data-structures-projects\arrays\ArrayRotation\ArrayRotation\obj\Debug\net6.0\ArrayRotation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\data-structures-projects\arrays\ArrayRotation\ArrayRotation\obj\Debug\net6.0\ArrayRotation.AssemblyInfoInputs.cache
+C:\Projects\data-structures-projects\arrays\ArrayRotation\ArrayRotation\obj\Debug\net6.0\ArrayRotation.AssemblyInfo.cs
+C:\Projects\data-structures-projects\arrays\ArrayRotation\ArrayRotation\obj\Debug\net6.0\ArrayRotation.csproj.CoreCompileInputs.cache
+C:\Projects\data-structures-projects\arrays\ArrayRotation\ArrayRotation\obj\Debug\net6.0\ArrayRotation.dll
+C:\Projects\data-structures-projects\arrays\ArrayRotation\ArrayRotation\obj\Debug\net6.0\refint\ArrayRotation.dll
+C:\Projects\data-structures-projects\arrays\ArrayRotation\ArrayRotation\obj\Debug\net6.0\ArrayRotation.pdb
+C:\Projects\data-structures-projects\arrays\ArrayRotation\ArrayRotation\obj\Debug\net6.0\ArrayRotation.genruntimeconfig.cache
+C:\Projects\data-structures-projects\arrays\ArrayRotation\ArrayRotation\obj\Debug\net6.0\ref\ArrayRotation.dll
